@@ -18,5 +18,11 @@
     <ClCompile Include="FileName.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="FileName2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="commands.txt" />
   </ItemGroup>
 </Project>
