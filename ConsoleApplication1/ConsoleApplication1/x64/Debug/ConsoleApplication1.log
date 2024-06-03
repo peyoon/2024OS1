@@ -1,7 +1,7 @@
 ﻿  2-3.cpp
-C:\Users\yep09\OneDrive\문서\GitHub\2024OS1\ConsoleApplication1\ConsoleApplication1\2-3.cpp(266,29): warning C4244: '초기화 중': '_Rep'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\yep09\OneDrive\문서\GitHub\2024OS1\ConsoleApplication1\ConsoleApplication1\2-3.cpp(266,29): warning C4244:         with
-C:\Users\yep09\OneDrive\문서\GitHub\2024OS1\ConsoleApplication1\ConsoleApplication1\2-3.cpp(266,29): warning C4244:         [
-C:\Users\yep09\OneDrive\문서\GitHub\2024OS1\ConsoleApplication1\ConsoleApplication1\2-3.cpp(266,29): warning C4244:             _Rep=__int64
-C:\Users\yep09\OneDrive\문서\GitHub\2024OS1\ConsoleApplication1\ConsoleApplication1\2-3.cpp(266,29): warning C4244:         ]
+C:\Users\yep09\OneDrive\문서\GitHub\2024OS1\ConsoleApplication1\ConsoleApplication1\2-3.cpp(267,29): warning C4244: '초기화 중': '_Rep'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yep09\OneDrive\문서\GitHub\2024OS1\ConsoleApplication1\ConsoleApplication1\2-3.cpp(267,29): warning C4244:         with
+C:\Users\yep09\OneDrive\문서\GitHub\2024OS1\ConsoleApplication1\ConsoleApplication1\2-3.cpp(267,29): warning C4244:         [
+C:\Users\yep09\OneDrive\문서\GitHub\2024OS1\ConsoleApplication1\ConsoleApplication1\2-3.cpp(267,29): warning C4244:             _Rep=__int64
+C:\Users\yep09\OneDrive\문서\GitHub\2024OS1\ConsoleApplication1\ConsoleApplication1\2-3.cpp(267,29): warning C4244:         ]
   ConsoleApplication1.vcxproj -> C:\Users\yep09\OneDrive\문서\GitHub\2024OS1\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
