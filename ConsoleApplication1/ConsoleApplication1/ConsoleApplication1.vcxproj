@@ -127,8 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="FileName.cpp" />
-    <ClCompile Include="FileName2.cpp" />
+    <ClCompile Include="2-1.cpp" />
+    <ClCompile Include="2-2.cpp" />
+    <ClCompile Include="2-3.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="commands.txt" />
